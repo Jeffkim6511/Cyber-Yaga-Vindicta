@@ -12,6 +12,10 @@ An action-packed top-down shooter with strategic AI, immersive lighting, and dyn
 3. Run the compiled executable: `cyber_yaga_vindicta`.
 
 ---
+## 📌 Milestones
+
+You can view all project milestone demonstration videos at the following link:  
+🔗 [Milestone Videos Folder](https://drive.google.com/drive/folders/1SvBg_iXEhbt-HEV3kn10l2bIMv4m8yEZ?usp=sharing)
 
 ## 🧪 M1: Core Systems and Creative Features
 
