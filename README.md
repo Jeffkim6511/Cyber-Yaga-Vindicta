@@ -1,4 +1,4 @@
-# Cyber-Yaga Vindicta — Team 08  
+# Cyber-Yaga Vindicta
 **Team Members:** Clive Yong, Parsa Saeedi, Jeff Kim, Matias Chomali, Mana Longhenry  
 
 An action-packed top-down shooter with strategic AI, immersive lighting, and dynamic gameplay.
